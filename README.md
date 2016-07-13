@@ -13,3 +13,4 @@
 -  [T129: Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)(7.12)
 -  [T226: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)(7.13)
 -  [T67: Add Binary](https://leetcode.com/submissions/detail/67001557/)
+-  [T47: Permutations](https://leetcode.com/problems/permutations-ii/) (去重复项的排列问题)
