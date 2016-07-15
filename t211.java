@@ -2,6 +2,9 @@
  * Trie 的节点到用的时候才分配
  * 因为Trie树比较稀疏，分配过早会
  * 占用大量空间
+ *
+ * 另外，该题可以直接用 HashMap 解决。
+ * 
  */
 import java.util.Arrays;
 
