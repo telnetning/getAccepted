@@ -12,6 +12,7 @@ public class createNode {
     public static void main(String[] args) {
         WordDictionary wd = new WordDictionary();                   
         //wd.addWord("adc");
+        //下面是测试数据
         wd.addWord("at");
         wd.addWord("and");
         wd.addWord("an");
@@ -30,6 +31,7 @@ public class createNode {
     } 
 }
 
+//构造的数据结构
 class WordDictionary {
     Node root = new Node();
 
@@ -81,7 +83,6 @@ class WordDictionary {
 
         }
     }
-
 }
 
 class Node {
@@ -97,10 +98,4 @@ class Node {
         this.val = val; 
         this.arr = new Node[26];
     }
-
-    public void setVal(char val) {
-        this.val = val;         
-        this.arr = new Node[26];
-    }
-    
 }
