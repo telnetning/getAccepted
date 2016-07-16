@@ -19,3 +19,6 @@
 -  [T240: Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 -  [T116: Populating Next Right Pointers in Each Node](https://discuss.leetcode.com/topic/49510/java-concise-o-1-space-iterative-solution)
 -  [T257: Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)(tree, dfs)
+-  [T304: Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)(预先计算)(7.16)
+-  [T78: Subsets](https://leetcode.com/problems/subsets/)(位图，回溯)(7.17)
+
