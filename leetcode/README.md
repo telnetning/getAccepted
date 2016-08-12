@@ -28,3 +28,4 @@
 -  [T150: Evaluate Reverse Polish Notation](https://leetcode.com/submissions/detail/69492191/)(8.6)(stack)
 -  [T108: Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)(8.7)(分治，bst)
 -  [T297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)(序列化，反序列化)
+-  [T143: Reorder List](https://leetcode.com/submissions/detail/70163973/)(8.12)(链表)
