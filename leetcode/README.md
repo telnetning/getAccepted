@@ -30,3 +30,4 @@
 -  [T297: Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)(序列化，反序列化)
 -  [T143: Reorder List](https://leetcode.com/submissions/detail/70163973/)(8.12)(链表)
 -  [t205: Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)(8.25)
+-  [t230: Kth Smallest Element in a BST](https://leetcode.com/subscribe/)(8.26)(BST, topK)
