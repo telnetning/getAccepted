@@ -1,1 +1,1 @@
-- [findFirstBiggerNum](单调栈)
+- [findFirstBiggerNum] (单调栈)
