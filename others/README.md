@@ -1,1 +1,1 @@
-- [findFirstBiggerNum] (单调栈)
+- [findFirstBiggerNum](https://github.com/telnetning/getAccepted/blob/master/others/findFirstBiggerNum.java) (单调栈)
