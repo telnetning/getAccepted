@@ -32,4 +32,4 @@
 -  [T007: Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 -  [T769: Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 -  [T768: Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)(单调栈)
--  [T042: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+-  [T042: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)(单调栈)
