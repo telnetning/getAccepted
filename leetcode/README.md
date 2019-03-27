@@ -33,3 +33,4 @@
 -  [T769: Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 -  [T768: Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)(单调栈)
 -  [T042: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)(单调栈)
+-  [T084: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)(单调栈)
