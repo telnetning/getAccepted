@@ -1,3 +1,5 @@
+package moe.ncg.leetcode;
+
 import java.util.Stack;
 
 /**
@@ -13,7 +15,6 @@ import java.util.Stack;
  * @author telnetning
  * @CreateAt Thu Mar 28 00:19:56 CST 2019
  */
- 
 public class t084
 {
     public static void main(String args[]) {
