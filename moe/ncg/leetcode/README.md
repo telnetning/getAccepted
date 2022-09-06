@@ -35,3 +35,4 @@
 -  [T042: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)(单调栈)
 -  [T084: Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)(单调栈)
 -  [T848: Shifting Letters](https://leetcode.com/problems/shifting-letters)
+-  [T814: Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
