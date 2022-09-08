@@ -37,3 +37,4 @@
 -  [T848: Shifting Letters](https://leetcode.com/problems/shifting-letters)
 -  [T814: Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 -  [T606: Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+-  [T94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
