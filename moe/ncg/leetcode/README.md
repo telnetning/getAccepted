@@ -39,4 +39,6 @@
 -  [T606: Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
 -  [T94: Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 -  [T1053: Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
-- [T1966: The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+-  [T1966: The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+-  [T946: Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+-  [T393: UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
